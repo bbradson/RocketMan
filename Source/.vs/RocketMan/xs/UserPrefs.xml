@@ -1,0 +1,40 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="RocketMan/Core/Main.cs">
+    <Files>
+      <File FileName="../../Soyuz/Source/Soyuz/Core/SoyuzSettingsUtility.cs" Line="1" Column="1" />
+      <File FileName="../../Soyuz/Source/Soyuz/Core/SoyuzSettings.cs" Line="58" Column="10" />
+      <File FileName="RocketMan/Core/Main.cs" Line="125" Column="38" />
+      <File FileName="RocketMan/Core/ModHelper.cs" />
+      <File FileName="RocketMan/Core/RocketPatcher.cs" Line="65" Column="28" />
+      <File FileName="RocketMan/Core/RocketSettings.cs" Line="37" Column="14" />
+      <File FileName="../../Soyuz/Source/Soyuz/Core/Patches/CameraDriver_Patch.cs" Line="1" Column="1" />
+      <File FileName="../../Soyuz/Source/Soyuz/Core/Profiling/PawnNeedModel.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RocketMan" expanded="True">
+            <Node name="RocketMan" expanded="True">
+              <Node name="Core" expanded="True">
+                <Node name="RocketSettings.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Soyuz" expanded="True">
+              <Node name="Core" expanded="True">
+                <Node name="Patches" expanded="True" />
+                <Node name="Profiling" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
