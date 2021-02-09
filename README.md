@@ -3,6 +3,8 @@
 ### What is RocketMan?
 Used to improve stat performance by adding caching and adaptive caching to StatWorker and StatPart. Originally developed by NotooShabby and now reworked by Krkr. 
 
+This edited version comes with Debug Logging disabled.
+
 ### TIPS
 #### For the adaptive settings:
  -  Set combat stats to 0 ticks. 
